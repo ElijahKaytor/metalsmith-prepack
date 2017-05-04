@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-prepack",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Metalsmith plugin for prepack.io",
   "main": "./lib/",
   "repository": {
